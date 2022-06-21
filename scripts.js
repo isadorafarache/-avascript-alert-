@@ -3,4 +3,4 @@
 
         alert("Olá. Tudo bom?");
         var nome = prompt("Qual o seu nome?");
-        alert("Seja bem vindo, " + nome);
+        alert("Seja bem-vindo, " + nome);
